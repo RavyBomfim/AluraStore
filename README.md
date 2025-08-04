@@ -1,2 +1,2 @@
-# Challenge1-AluraStore
+# AluraStore
 

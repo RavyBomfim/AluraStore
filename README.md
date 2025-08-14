@@ -17,11 +17,10 @@ _Obs: A rede de lojas Alura Store é fictícia._
 
 O projeto utiliza a **Linguagem Python** e as seguintes bibliotecas:
 
-- [x] Pandas - Linguagem de marcação
-- [x] Numpy - Linguagem de marcação
-- [x] Matplotlib - Linguagem de marcação
-- [x] Pandas - Linguagem de marcação
-- [x] Seaborn - Linguagem de marcação
+- [x] Pandas - Versão: 2.2.2
+- [x] Numpy - Versão: 2.0.2
+- [x] Matplotlib - Versão 3.10.0
+- [x] Seaborn - Versão: 0.13.2 -->
 
 <hr>
 

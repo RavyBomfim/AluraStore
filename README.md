@@ -2,10 +2,9 @@
 
 ### Tópicos
 
-[Descrição do Projeto](#descrição-do-projeto) | [Linguagem e Bibiotecas](#bibiotecas-utilizadas) | [Acesso ao Projeto](#acesso-ao-projeto) | [Quem Fez a Análise](#desenvolvedora) 
+[Descrição do Projeto](#descrição-do-projeto) | [Linguagem e Bibiotecas](#bibliotecas-utilizadas) | [Acesso ao Projeto](#acesso-ao-projeto) | [Quem Fez a Análise](#desenvolvedora) 
 
 <hr>
-
 <h2 id="descrição-do-projeto">Descrição do Projeto</h2>
 
 **Alura Store** é um projeto de análise de dados tem como objetivo analisar os dados de vendas de quatro lojas da rede Alura Store, pertencentes ao Sr. João, que pretende vender uma delas para investir em um novo negócio. Com base nessa análise, será apresentada uma recomendação que o ajude a decidir qual loja deve ser vendida.
@@ -14,7 +13,7 @@ _Obs: A rede de lojas Alura Store é fictícia._
 
 <hr>
 
-<h2 id="#bibiotecas-utilizadas">Linguagem e Bibiotecas</h2> 
+<h2 id="bibliotecas-utilizadas">Linguagem e Bibiotecas</h2> 
 
 O projeto utiliza a **Linguagem Python** e as seguintes bibliotecas:
 

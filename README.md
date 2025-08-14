@@ -29,7 +29,7 @@ O projeto utiliza a **Linguagem Python** e as seguintes bibliotecas:
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo clicando nos links abaixo:<a/> <br>
 
-- <a href="https://github.com/RavyBomfim/AluraStore">Acessar o código fonte do projeto<a/> <br>
+- <a href="https://github.com/RavyBomfim/AluraStore">Acessar Projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/AluraStore/archive/refs/heads/main.zip">Baixar Projeto<a/>
 
 <hr>

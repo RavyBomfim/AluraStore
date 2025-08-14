@@ -15,12 +15,12 @@ _Obs: A rede de lojas Alura Store é fictícia._
 
 <h2 id="bibliotecas-utilizadas">Linguagem e Bibiotecas</h2> 
 
-O projeto utiliza a **Linguagem Python** e as seguintes bibliotecas:
+O projeto utiliza a linguagem **Python** versão (3.11.13) e as seguintes bibliotecas:
 
 - [x] Pandas - Versão: 2.2.2
 - [x] Numpy - Versão: 2.0.2
 - [x] Matplotlib - Versão 3.10.0
-- [x] Seaborn - Versão: 0.13.2 -->
+- [x] Math - Nativa do Python
 
 <hr>
 

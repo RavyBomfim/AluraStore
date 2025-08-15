@@ -30,7 +30,7 @@ O projeto utiliza a linguagem **Python** versão (3.11.13) e as seguintes biblio
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo clicando nos links abaixo:<a/> <br>
 
-- <a href="https://github.com/RavyBomfim/AluraStore">Acessar Projeto<a/> <br>
+- <a href="https://github.com/RavyBomfim/AluraStore/blob/main/AluraStore.ipynb">Acessar Projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/AluraStore/archive/refs/heads/main.zip">Baixar Projeto<a/>
 
 <hr>
